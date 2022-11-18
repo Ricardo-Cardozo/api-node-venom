@@ -1,0 +1,61 @@
+2022/11/18-13:04:07.624 33a8 Reusing MANIFEST C:\Users\rica_\OneDrive\Área de Trabalho\whatsapp-react-api\venom-api-wp\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/18-13:04:07.625 33a8 Recovering log #2205
+2022/11/18-13:04:07.658 33a8 Reusing old log C:\Users\rica_\OneDrive\Área de Trabalho\whatsapp-react-api\venom-api-wp\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/002205.log 
+2022/11/18-13:04:28.445 5fc Level-0 table #2231: started
+2022/11/18-13:04:28.547 5fc Level-0 table #2231: 1260577 bytes OK
+2022/11/18-13:04:28.549 5fc Delete type=0 #2205
+2022/11/18-13:04:31.927 5fc Compacting 1@0 + 0@1 files
+2022/11/18-13:04:31.985 5fc Generated table #2232@0: 14893 keys, 464354 bytes
+2022/11/18-13:04:31.987 5fc Generated table #2233@0: 339 keys, 16034 bytes
+2022/11/18-13:04:31.989 5fc Generated table #2234@0: 12 keys, 411 bytes
+2022/11/18-13:04:31.989 5fc Compacted 1@0 + 0@1 files => 480799 bytes
+2022/11/18-13:04:31.989 5fc compacted to: files[ 0 4 33 0 0 0 0 ]
+2022/11/18-13:04:31.990 5fc Delete type=2 #2231
+2022/11/18-13:05:13.300 2344 Compacting 1@1 + 9@2 files
+2022/11/18-13:05:13.457 2344 Generated table #2235@1: 28098 keys, 2250454 bytes
+2022/11/18-13:05:13.544 2344 Generated table #2236@1: 22895 keys, 2280392 bytes
+2022/11/18-13:05:13.644 2344 Generated table #2237@1: 23043 keys, 2277462 bytes
+2022/11/18-13:05:13.787 2344 Generated table #2238@1: 24135 keys, 2270256 bytes
+2022/11/18-13:05:13.937 2344 Generated table #2239@1: 25249 keys, 2273162 bytes
+2022/11/18-13:05:14.074 2344 Generated table #2240@1: 23065 keys, 2277423 bytes
+2022/11/18-13:05:14.183 2344 Generated table #2241@1: 78226 keys, 2264121 bytes
+2022/11/18-13:05:14.352 2344 Generated table #2242@1: 75197 keys, 2344504 bytes
+2022/11/18-13:05:14.430 2344 Generated table #2243@1: 16230 keys, 2168486 bytes
+2022/11/18-13:05:14.436 2344 Generated table #2244@1: 209 keys, 180863 bytes
+2022/11/18-13:05:14.436 2344 Compacted 1@1 + 9@2 files => 20587123 bytes
+2022/11/18-13:05:14.436 2344 compacted to: files[ 0 3 34 0 0 0 0 ]
+2022/11/18-13:05:14.436 2344 Delete type=2 #2209
+2022/11/18-13:05:14.436 2344 Delete type=2 #2210
+2022/11/18-13:05:14.436 2344 Delete type=2 #2211
+2022/11/18-13:05:14.436 2344 Delete type=2 #2212
+2022/11/18-13:05:14.437 2344 Delete type=2 #2213
+2022/11/18-13:05:14.437 2344 Delete type=2 #2214
+2022/11/18-13:05:14.437 2344 Delete type=2 #2215
+2022/11/18-13:05:14.437 2344 Delete type=2 #2216
+2022/11/18-13:05:14.437 2344 Delete type=2 #2217
+2022/11/18-13:05:14.437 2344 Delete type=2 #2232
+2022/11/18-13:05:15.834 18b4 Compacting 1@1 + 10@2 files
+2022/11/18-13:05:15.946 18b4 Generated table #2245@1: 2715 keys, 2156788 bytes
+2022/11/18-13:05:16.025 18b4 Generated table #2246@1: 3711 keys, 2159575 bytes
+2022/11/18-13:05:16.157 18b4 Generated table #2247@1: 26538 keys, 2218858 bytes
+2022/11/18-13:05:16.328 18b4 Generated table #2248@1: 26265 keys, 2274531 bytes
+2022/11/18-13:05:16.496 18b4 Generated table #2249@1: 26069 keys, 2243976 bytes
+2022/11/18-13:05:16.671 18b4 Generated table #2250@1: 40794 keys, 2247356 bytes
+2022/11/18-13:05:16.769 18b4 Generated table #2251@1: 10136 keys, 2134293 bytes
+2022/11/18-13:05:16.890 18b4 Generated table #2252@1: 90500 keys, 2236634 bytes
+2022/11/18-13:05:17.114 18b4 Generated table #2253@1: 101305 keys, 2251973 bytes
+2022/11/18-13:05:17.278 18b4 Generated table #2254@1: 101499 keys, 2250152 bytes
+2022/11/18-13:05:17.280 18b4 Generated table #2255@1: 281 keys, 6785 bytes
+2022/11/18-13:05:17.280 18b4 Compacted 1@1 + 10@2 files => 22180921 bytes
+2022/11/18-13:05:17.280 18b4 compacted to: files[ 0 2 35 0 0 0 0 ]
+2022/11/18-13:05:17.281 18b4 Delete type=2 #2182
+2022/11/18-13:05:17.281 18b4 Delete type=2 #2219
+2022/11/18-13:05:17.281 18b4 Delete type=2 #2220
+2022/11/18-13:05:17.281 18b4 Delete type=2 #2221
+2022/11/18-13:05:17.281 18b4 Delete type=2 #2222
+2022/11/18-13:05:17.281 18b4 Delete type=2 #2223
+2022/11/18-13:05:17.281 18b4 Delete type=2 #2224
+2022/11/18-13:05:17.281 18b4 Delete type=2 #2225
+2022/11/18-13:05:17.281 18b4 Delete type=2 #2226
+2022/11/18-13:05:17.281 18b4 Delete type=2 #2227
+2022/11/18-13:05:17.281 18b4 Delete type=2 #2233
