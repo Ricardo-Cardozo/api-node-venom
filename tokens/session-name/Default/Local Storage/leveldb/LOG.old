@@ -1,3 +1,6 @@
-2022/11/18-13:04:07.439 1640 Reusing MANIFEST C:\Users\rica_\OneDrive\Área de Trabalho\whatsapp-react-api\venom-api-wp\tokens\session-name\Default\Local Storage\leveldb/MANIFEST-000001
-2022/11/18-13:04:07.440 1640 Recovering log #26
-2022/11/18-13:04:07.441 1640 Reusing old log C:\Users\rica_\OneDrive\Área de Trabalho\whatsapp-react-api\venom-api-wp\tokens\session-name\Default\Local Storage\leveldb/000026.log 
+2022/11/20-03:32:44.070 2cc8 Reusing MANIFEST C:\Users\rica_\OneDrive\Área de Trabalho\whatsapp-react-api\venom-api-wp\tokens\session-name\Default\Local Storage\leveldb/MANIFEST-000001
+2022/11/20-03:32:44.071 2cc8 Recovering log #33
+2022/11/20-03:32:44.071 2cc8 Reusing old log C:\Users\rica_\OneDrive\Área de Trabalho\whatsapp-react-api\venom-api-wp\tokens\session-name\Default\Local Storage\leveldb/000033.log 
+2022/11/20-10:35:58.431 37fc Level-0 table #37: started
+2022/11/20-10:35:58.433 37fc Level-0 table #37: 9134 bytes OK
+2022/11/20-10:35:58.434 37fc Delete type=0 #33
