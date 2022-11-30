@@ -1,6 +1,0 @@
-2022/11/09-13:42:31.309 5138 Creating DB C:\Users\rica_\OneDrive\Área de Trabalho\venom-api-wp\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb since it was missing.
-2022/11/09-13:42:31.312 5138 Reusing MANIFEST C:\Users\rica_\OneDrive\Área de Trabalho\venom-api-wp\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/11/09-13:42:31.542 14d8 Level-0 table #5: started
-2022/11/09-13:42:31.544 14d8 Level-0 table #5: 7353 bytes OK
-2022/11/09-13:42:31.547 14d8 Delete type=0 #3
-2022/11/09-13:42:31.548 14d8 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
