@@ -1,0 +1,37 @@
+2022/11/30-22:29:46.495 3474 Reusing MANIFEST C:\Users\rica_\OneDrive\Área de Trabalho\whatsapp-react-api\venom-api-wp\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/30-22:29:46.496 3474 Recovering log #662
+2022/11/30-22:29:46.575 3474 Reusing old log C:\Users\rica_\OneDrive\Área de Trabalho\whatsapp-react-api\venom-api-wp\tokens\sessionName\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000662.log 
+2022/11/30-22:30:01.520 3474 Level-0 table #678: started
+2022/11/30-22:30:01.674 3474 Level-0 table #678: 1245763 bytes OK
+2022/11/30-22:30:01.676 3474 Delete type=0 #662
+2022/11/30-22:30:01.718 7d4 Compacting 1@0 + 1@1 files
+2022/11/30-22:30:01.847 7d4 Generated table #679@0: 17740 keys, 551973 bytes
+2022/11/30-22:30:01.851 7d4 Generated table #680@0: 956 keys, 26481 bytes
+2022/11/30-22:30:01.851 7d4 Compacted 1@0 + 1@1 files => 578454 bytes
+2022/11/30-22:30:01.852 7d4 compacted to: files[ 0 2 16 0 0 0 0 ]
+2022/11/30-22:30:02.659 7d4 Compacting 1@1 + 10@2 files
+2022/11/30-22:30:03.320 7d4 Generated table #681@1: 39192 keys, 2242276 bytes
+2022/11/30-22:30:03.495 7d4 Generated table #682@1: 2834 keys, 2157831 bytes
+2022/11/30-22:30:03.687 7d4 Generated table #683@1: 3220 keys, 2156502 bytes
+2022/11/30-22:30:04.046 7d4 Generated table #684@1: 2199 keys, 2145550 bytes
+2022/11/30-22:30:04.203 7d4 Generated table #685@1: 3171 keys, 2159829 bytes
+2022/11/30-22:30:04.406 7d4 Generated table #686@1: 3334 keys, 2167612 bytes
+2022/11/30-22:30:04.658 7d4 Generated table #687@1: 9787 keys, 2170309 bytes
+2022/11/30-22:30:04.958 7d4 Generated table #688@1: 31329 keys, 2260512 bytes
+2022/11/30-22:30:05.208 7d4 Generated table #689@1: 26745 keys, 2271749 bytes
+2022/11/30-22:30:05.438 7d4 Generated table #690@1: 16903 keys, 1309146 bytes
+2022/11/30-22:30:05.438 7d4 Compacted 1@1 + 10@2 files => 21041316 bytes
+2022/11/30-22:30:05.439 7d4 compacted to: files[ 0 1 16 0 0 0 0 ]
+2022/11/30-22:30:05.439 7d4 Delete type=2 #665
+2022/11/30-22:30:05.439 7d4 Delete type=2 #666
+2022/11/30-22:30:05.439 7d4 Delete type=2 #667
+2022/11/30-22:30:05.439 7d4 Delete type=2 #668
+2022/11/30-22:30:05.440 7d4 Delete type=2 #669
+2022/11/30-22:30:05.440 7d4 Delete type=2 #670
+2022/11/30-22:30:05.440 7d4 Delete type=2 #671
+2022/11/30-22:30:05.440 7d4 Delete type=2 #672
+2022/11/30-22:30:05.440 7d4 Delete type=2 #673
+2022/11/30-22:30:05.440 7d4 Delete type=2 #674
+2022/11/30-22:30:05.440 7d4 Delete type=2 #675
+2022/11/30-22:30:05.440 7d4 Delete type=2 #678
+2022/11/30-22:30:05.440 7d4 Delete type=2 #679

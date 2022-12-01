@@ -1,0 +1,18 @@
+2022/11/30-21:15:48.006 4124 Reusing MANIFEST C:\Users\rica_\OneDrive\Área de Trabalho\whatsapp-react-api\venom-api-wp\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/30-21:15:48.007 4124 Recovering log #23
+2022/11/30-21:15:48.016 4124 Reusing old log C:\Users\rica_\OneDrive\Área de Trabalho\whatsapp-react-api\venom-api-wp\tokens\session-name\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000023.log 
+2022/11/30-21:15:48.018 4124 Delete type=2 #22
+2022/11/30-21:15:48.018 4124 Delete type=2 #24
+2022/11/30-21:15:48.050 3f94 Manual compaction at level-0 from '\x00\x13\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x14\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/11/30-21:15:48.057 3f94 Manual compaction at level-0 from '\x00\x12\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x13\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/11/30-21:15:48.062 4124 Level-0 table #28: started
+2022/11/30-21:15:48.072 4124 Level-0 table #28: 85828 bytes OK
+2022/11/30-21:15:48.073 4124 Delete type=0 #23
+2022/11/30-21:15:48.074 4124 Manual compaction at level-0 from '\x00\x11\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at '\x00\x13.\x02\x01\x0e\x00W\x00A\x00A\x00D\x00V\x00S\x00e\x00c\x00r\x00e\x00t\x00K\x00e\x00y' @ 20882 : 1
+2022/11/30-21:15:48.074 4124 Compacting 1@0 + 1@1 files
+2022/11/30-21:15:48.087 4124 Generated table #29@0: 4337 keys, 55819 bytes
+2022/11/30-21:15:48.088 4124 Compacted 1@0 + 1@1 files => 55819 bytes
+2022/11/30-21:15:48.088 4124 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/11/30-21:15:48.089 4124 Delete type=2 #28
+2022/11/30-21:15:48.090 1c3c Manual compaction at level-0 from '\x00\x13.\x02\x01\x0e\x00W\x00A\x00A\x00D\x00V\x00S\x00e\x00c\x00r\x00e\x00t\x00K\x00e\x00y' @ 20882 : 1 .. '\x00\x12\x00\x00\x00' @ 0 : 0; will stop at (end)
+2022/11/30-21:15:48.105 4124 Manual compaction at level-0 from '\x00\x10\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x11\x00\x00\x00' @ 0 : 0; will stop at (end)
